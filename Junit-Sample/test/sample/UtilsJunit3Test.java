@@ -40,6 +40,13 @@ public class UtilsJunit3Test extends TestCase {
      * // TODO review the generated test code and remove the default call to fail.
      * fail("The test case is a prototype.");
      * }*/
+    
+    public void testHelloWorld() {
+        System.out.println("* UtilsJUnit3Test: test method 1 - testHelloWorld()");
+        assertEquals("Hello, world!", Utils.concatWords("Hello", ", ", "world", "!"));
+    }
+    
+    
 
     /**
      * Test of computeFactorial method, of class Utils.
