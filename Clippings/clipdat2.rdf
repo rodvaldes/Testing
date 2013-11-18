@@ -1,0 +1,1035 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NS1="http://clippings.mozdev.org/ns/rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <NS1:clipping RDF:about="rdf:#$n6gXE"
+                   NS1:name="Webex">
+    <NS1:text>Dear Mr Customer
+You have requested that Oracle's engineering staff access your system _______________add details for the purposes of
+diagnosing and resolving the ongoing problem documented in SRxxxxxxxxxxxxxx
+The use of Webex or Shared Shell to access your systems is purely a diagnostic aid for Oracle &amp; does not replace your Systems
+Administration responsibilities. Oracle engineers will not normally perform action plans on your behalf nor will we monitor your
+Systems Administration actions unless this is required to gather diagnostics. However in rare exceptional situations we may
+perform such actions as required to recover your system, to expedite a resumption of service for you.
+This does not form a part of your Premium support contact and the engineer engaged is providing an additional service to assist
+you in resolving this issue
+If you are unable to perform such action plans then an ACS Time and Materials service can be provided, to obtain a quotation
+please see:
+http://www.oracle.com/partners/secure/support/support-services/advanced-customer-support-1494470.html
+Please be aware that by responding to this email you are agreeing that you understand that remote access to servers does contain
+some measure of risk and accordingly Oracle will not be liable for any issues arising from this access
+Please remember that we are exceeding our contractual requirements in delivering this level of support &amp; would hope you could
+reflect this in any responses you make to Customer Satisfaction Surveys that may follow</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$u5gXE"
+                   NS1:name="Inictial Contact">
+    <NS1:text>Hello xxxxxx,
+
+My name is Rodrigo Valdés i am with the Solaris OS support team, and I have taken ownership of
+this service request to assist with xxxxxxxx.  Please
+note my business hours are Mon-Fri 9AM-6:30PM GMT -3 .  I am currently
+reviewing your service request and will get back to you.  At that time,
+I may request additional information.  If needed, you can contact me by
+calling your local support number listed here:
+http://www.oracle.com/us/support/contact-068555.html (in US: 1-800-223-1711)
+or by updating the SR online via MOS.
+
+Regards,</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$76gXE"
+                   NS1:name="CLST (GMT -3)"
+                   NS1:text="CLST (GMT -3)" />
+  <NS1:clipping RDF:about="rdf:#$x5gXE"
+                   NS1:name="English_SaND IPN Clippings file">
+    <NS1:text>Hello ,
+
+My name is Rodrigo. 
+I am a support engineer/agent working for the Solaris OS  support team.
+
+Your Service Request (SR) has been assigned to me, and I will respond to you shortly with an initial update or request for specific information to begin (or continue) diagnosis of your issue.
+
+Below you will find information on how I'll contact you, my working hours, how you can contact me, and what your options are in the event you need support outside of my normal working hours. I look forward to assisting you in the resolution of your issue.
+
+I will contact you via the Customer Preferred Method shown on the SR:
+Preferred Contact Method:
+MOS access (Y/N):
+Contact name :
+Contact email :
+Contact phone :
+
+My normal coverage hours are 9:00AM to 6PM GMT -4.  For your convenience, here is a URL to help you convert my working hours to your local time: http://www.timeanddate.com/time/map
+
+During these hours, you can reach me via either of the following methods :
+1. By updating the Service Request within My Oracle Support
+2. By contacting your local Oracle Support Center, http://www.oracle.com/us/support/contact-068555.html, then entering menu option 1 (existing Service Request) and then entering all of the digits from your SR number.
+
+Should you need assistance outside my working hours at any stage during the life-time of this SR, please call the Support Center telephone number identified above and ask to speak to the next available engineer.
+
+Thank you,
+Rodrigo Valdés
+
+Proudly Serviced by Oracle.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$T6gXE"
+                   NS1:name="=============================================================..."
+                   NS1:text="============================================================================================" />
+  <NS1:clipping RDF:about="rdf:#$+5gXE"
+                   NS1:name="Thanks for confirming the SR can be closed.">
+    <NS1:text>Thanks for confirming the SR can be closed.
+Please take a few moments to rate the service you received in this SR.
+I value your opinion. You can request a survey invitation by sending an email to ops-cust-sat_ww@oracle.com
+with the subject line of  "Survery regarding Service Request # xxxxx"
+The "Overall SR Sat " is what I will be rated on.</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="rdf:#$h6gXE">
+    <RDF:li RDF:resource="rdf:#$i6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$h6gXE"
+                   NS1:name="Spanish Technical"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$M5gXE"
+                   NS1:name="Refer Customer to ACS"
+                   NS1:text="If you would like assistance in [ details of what the customer is requesting ] on a chargeable basis, please contact Oracle Advanced Customer Services, Oracle Consulting or your Oracle Support Account Manager. You can find more information on Oracle Advanced Customer Services at http://www.oracle.com/us/support/software/advanced-customer-services/index.html " />
+  <RDF:Seq RDF:about="rdf:#$I6gXE">
+    <RDF:li RDF:resource="rdf:#$J6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$I6gXE"
+                   NS1:name="Confluence"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$q6gXE"
+                   NS1:name="Vacations">
+    <NS1:text>i need to know current state of this issue. 
+Also need to let you know that i will not able to help you for the next 2 weeks on this issue since i am going to 
+take vacations. So please if you need assistance while i am not available call Oracle Support http://www.oracle.com/us/support/contact-068555.html
+and request this SR to be transferred to the next available engineer otherwise i will follow up when i get back to the office.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$.5gXE"
+                   NS1:name="Severity 1">
+    <NS1:text>According to Oracle support policy http://www.oracle.com/support/collateral/oracle-technical-support-policies.pdf 
+the support severity levels are defined as follows:
+
+Severity 1
+Your production use of the supported programs is stopped or so severely impacted that you cannot reasonably continue work. You experience a complete loss of service. The operation is mission critical to the business and the situation is an emergency. A Severity 1 service request has one or more of the following characteristics:
+   * Data corrupted
+   * A critical documented function is not available
+   * System hangs indefinitely, causing unacceptable or indefinite delays for resources or response
+   * System crashes, and crashes repeatedly after restart attempts
+
+Please explain in which way your issue match with this criteria in order to have this SR as sev 1. Remember that this SR categories were established in order to provide 
+the best service and minimize downtime of service in critical issues. If all SR are opened as sev 1 we will not be able to attend more critical SR's in timely manner.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$t6gXE"
+                   NS1:name="Product ID: 8549 - Java Platform, Standard Editi..."
+                   NS1:text="Product ID: 8549 - Java Platform, Standard Edition" />
+  <NS1:clipping RDF:about="rdf:#$c6gXE"
+                   NS1:name="OBP boot">
+    <NS1:text>ok &gt;reset-all
+ok&gt;probe-scsi-all
+ok&gt;printenv
+ok&gt;devalias
+ok &gt;boot -svV
+ok &gt;boot -F failsafe.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$R6gXE"
+                   NS1:name="Please let me know if you need any additional Information"
+                   NS1:text="Please let me know if you need any additional Information." />
+  <NS1:clipping RDF:about="rdf:#$O6gXE"
+                   NS1:name="He intentado contactarlo vía telefónica lo cual no ha sido po...">
+    <NS1:text>He intentado contactarlo vía telefónica al número &lt;########&gt; lo cual no ha sido posible.Nos gustaría saber cual es el estado actual del caso para ver la manera de 
+poder ayudarlo, o saber si estamos en condiciones de cerrar el SR.
+
+Cordial Saludo 
+Rodrigo Valdés</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$S6gXE"
+                   NS1:name="Confirmar cierre de SR."
+                   NS1:text="Confirmar cierre de SR." />
+  <RDF:Seq RDF:about="rdf:#$b6gXE">
+    <RDF:li RDF:resource="rdf:#$c6gXE"/>
+    <RDF:li RDF:resource="rdf:#$d6gXE"/>
+    <RDF:li RDF:resource="rdf:#$e6gXE"/>
+    <RDF:li RDF:resource="rdf:#$g6gXE"/>
+    <RDF:li RDF:resource="rdf:#$h6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$b6gXE"
+                   NS1:name=""
+                   NS1:hassubfolders="true" />
+  <NS1:clipping RDF:about="rdf:#$G5gXE"
+                   NS1:name="Preguntas Performance">
+    <NS1:text>¿Qué evidencia tiene o medidas de tiempo de tardanza de respuesta podría usted mencionar?
+
+¿Cual es el impacto del problema de performace, quién/qué está afectado y en qué medida?
+
+¿Cuanto más lento es el desempeño, ejemplo 30%, 2x, 10x? (Por favor entregue ejemplos con tiempo por ejemplo: hacer la tarea X tomaba Y minutos pero ahora toma Z minutos)
+
+¿Cuando comenzó a suceder esto, el sistema ha funcionado bien alguna vez?(Por favor entregar fecha y hora si es posible)
+
+¿Cuando se ve o cuando se vio el problema, que fechas y hora. (A veces los problemas de performance se ven e horarios específicos de sobrecarga del sistema)
+
+¿Con qué frecuencia ocurre este problema - diariamente. semanalmente, en cierto momento del día, al azar o de manera persistente? ¿Existe algún patrón evidente?
+
+¿Qué cambios se han hecho recientemente, lo que significa desde el último reboot, de aplicaciones, configuración, parchado, carga de trabajo, número de usuarios,etc?
+
+¿Cual es el nivel esperado de performance, ejemplo cómo sabremos cuando el problema sea resuelto?
+
+¿Cual es la función del sistema, qué tipo de trabajo realiza?
+
+¿Cual es la naturaleza de la carga de trabajo de sistema?
+
+¿Cual es la métrica de negocio más importante: Tiempo de respuesta, throughput, job run time?¿Cómo son medidas estas?
+
+¿Existe algún otro sistema realizando la misma carga de trabajo y que está funcionando de la manera esperada, en caso afirmativo cuál es la diferencia respecto a la máquina con problemas?</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$B6gXE"
+                   NS1:name="zone explorer"
+                   NS1:text="# explorer -w default,localzones" />
+  <NS1:clipping RDF:about="rdf:#$v5gXE"
+                   NS1:name="Initial Contact 2">
+    <NS1:text>Hello xxxxxxxx ,
+
+My name is Rodrigo Valdés i am with the Solaris OS support team, and I have taken ownership of
+this service request to assist with yourxxxxxxx Issue.  Please note my business hours are 
+Mon-Fri 9AM-6:30PM GMT -4 .  I am currently reviewing your service request and will get back to 
+you.  At that time, I may request additional information.  If needed, you can contact me by calling 
+your local support number listed here:http://www.oracle.com/us/support/contact-068555.html 
+(in US: 1-800-223-1711) or by updating the SR online via MOS.
+
+Regards,</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$w6gXE"
+                   NS1:name="Transfer as Duty"
+                   NS1:text="Currently working as Spanish Duty Engineer focused on Spanish Sev1 issues." />
+  <RDF:Seq RDF:about="rdf:#$D6gXE">
+    <RDF:li RDF:resource="rdf:#$E6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$D6gXE"
+                   NS1:name="LBL"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$z5gXE"
+                   NS1:name="Advertencia Contact Method E-mail">
+    <NS1:text>De acuerdo a las notas del Service Request su método de contacto preferido es e-mail, para poder trabajar
+por este medio debe entender lo siguiente:
+
+La transmisión de datos por vias no seguras no son prácticas que Oracle fomente. Oracle no es responsable 
+por problemas de seguridad asociados a la solución de SR vía e-mail. También se debe considerar que al trabajar
+vía e-mail existe la posibilidad de extender el tiempo de resolución del problema.
+
+Por otro lado debe considerar que necesitará acceso a My Oracle Support Website para ver documentos, 
+descargar parches etc.
+
+Por favor confirmar que está conciente de los riesgos asociados a trabajar vía e-mail  para continuar trabajando 
+en la solución del problema.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$96gXE"
+                   NS1:name="Estimados Adjunto comprobante de pago gastos com..."
+                   NS1:text="Estimados Adjunto comprobante de pago gastos comunes. " />
+  <NS1:clipping RDF:about="rdf:#$F5gXE"
+                   NS1:name="AP comentarios previa actualización"
+                   NS1:text=" Entregar comentarios respecto a última actualización." />
+  <NS1:clipping RDF:about="rdf:#$R5gXE"
+                   NS1:name="Call next available">
+    <NS1:text>If you need continue to work on this while i'm 
+off shift please call Oracle Support and request to transfer this SR to the next available engineer.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$B5gXE"
+                   NS1:name="Ultimatum 5 días Español">
+    <NS1:text>Con el objetivo de avanzar en el caso 3-5927354319 necesitamos contar con la información
+solicitada (core dump). Como no hemos recibido esta información este SR será cerrado en un plazo de 5 dias
+hábiles a no ser de que no entregue la información solicitada para continuar con el caso. Si no puede proveer 
+esta información debido a problemas operacionales por favor déjeme saber cuando espera obtener la información 
+para ajustar el tiempo de la proxima respuesta y la severidad del caso de manera adecuada.Si no obtenemos respuesta 
+de su parte en lo s5 días este SR será cerrado. Si logra conseguir la información solicitada posteriormente al cierre 
+de este caso usted puede solicitar la reapertura de este SR si han pasado menos de 15 días del cierre, o puede crear
+uno nuevo que haga referencia a este caso.
+
+Muchas Gracias.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$m6gXE"
+                   NS1:name="3 W's">
+    <NS1:text>Who: 
+What:
+When:  CLST(GMT -3)</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$W5gXE"
+                   NS1:name="ultimatum five days">
+    <NS1:text>In order to progress your Service Request xxxxxxxxx you need to provide the information requested
+(infodatilsxxxxxxxxxxx). As we haven't received this information the SR will be
+closed in 5 working  days time unless you provide us with what's required to progress this issue. If you can't provide the
+required data due to operational concerns please let me know when you expect to be able to do this &amp;
+your SR Severity &amp; next response due date will be adjusted accordingly. If we don't hear from you within
+5 days then the SR will be closed. If at a future date you obtain the data and want to progress you can
+either request this SR is re-opened if less than 15 days have elapsed since the SR was closed, otherwise
+open a new one</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="rdf:#$86gXE">
+    <RDF:li RDF:resource="rdf:#$96gXE"/>
+    <RDF:li RDF:resource="rdf:#$a6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$86gXE"
+                   NS1:name="Personal"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$a6gXE"
+                   NS1:name="Gestión Mes de xxxxx 2013 Depto 802 Catedral 1..."
+                   NS1:text="Gestión Mes de Febrero 2013 Depto 802 Catedral 1310." />
+  <NS1:clipping RDF:about="rdf:#$36gXE"
+                   NS1:name="Shared Shell Messagge">
+    <NS1:text>Dear Mr Customer
+You have requested that Oracle's engineering staff access your system _______________add details for the purposes of
+diagnosing and resolving the ongoing problem documented in SRxxxxxxxxxxxxxx
+The use of Webex or Shared Shell to access your systems is purely a diagnostic aid for Oracle &amp; does not replace your Systems
+Administration responsibilities. Oracle engineers will not normally perform action plans on your behalf nor will we monitor your
+Systems Administration actions unless this is required to gather diagnostics. However in rare exceptional situations we may
+perform such actions as required to recover your system, to expedite a resumption of service for you.
+This does not form a part of your Premium support contact and the engineer engaged is providing an additional service to assist
+you in resolving this issue
+If you are unable to perform such action plans then an ACS Time and Materials service can be provided, to obtain a quotation
+please see:
+http://www.oracle.com/partners/secure/support/support-services/advanced-customer-support-1494470.html
+Please be aware that by responding to this email you are agreeing that you understand that remote access to servers does contain
+some measure of risk and accordingly Oracle will not be liable for any issues arising from this access
+Please remember that we are exceeding our contractual requirements in delivering this level of support &amp; would hope you could
+reflect this in any responses you make to Customer Satisfaction Surveys that may follow</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="rdf:#$I5gXE">
+    <RDF:li RDF:resource="rdf:#$J5gXE"/>
+    <RDF:li RDF:resource="rdf:#$K5gXE"/>
+    <RDF:li RDF:resource="rdf:#$L5gXE"/>
+    <RDF:li RDF:resource="rdf:#$M5gXE"/>
+    <RDF:li RDF:resource="rdf:#$N5gXE"/>
+    <RDF:li RDF:resource="rdf:#$O5gXE"/>
+    <RDF:li RDF:resource="rdf:#$P5gXE"/>
+    <RDF:li RDF:resource="rdf:#$Q5gXE"/>
+    <RDF:li RDF:resource="rdf:#$R5gXE"/>
+    <RDF:li RDF:resource="rdf:#$S5gXE"/>
+    <RDF:li RDF:resource="rdf:#$T5gXE"/>
+    <RDF:li RDF:resource="rdf:#$U5gXE"/>
+    <RDF:li RDF:resource="rdf:#$V5gXE"/>
+    <RDF:li RDF:resource="rdf:#$W5gXE"/>
+    <RDF:li RDF:resource="rdf:#$X5gXE"/>
+    <RDF:li RDF:resource="rdf:#$Y5gXE"/>
+    <RDF:li RDF:resource="rdf:#$Z5gXE"/>
+    <RDF:li RDF:resource="rdf:#$.5gXE"/>
+    <RDF:li RDF:resource="rdf:#$+5gXE"/>
+    <RDF:li RDF:resource="rdf:#$06gXE"/>
+    <RDF:li RDF:resource="rdf:#$16gXE"/>
+    <RDF:li RDF:resource="rdf:#$26gXE"/>
+    <RDF:li RDF:resource="rdf:#$36gXE"/>
+    <RDF:li RDF:resource="rdf:#$46gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$I5gXE"
+                   NS1:name="Templates English"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$F6gXE"
+                   NS1:name="Documentos LU">
+    <NS1:text>http://download.oracle.com/docs/cd/E18752_01/html/821-1910/index.html
+1008570.1 - Solaris[TM] Upgrade Tips and Checklist
+1004440.1 - How to verify a system can be upgraded to Solaris 10[TM]
+1004881.1 - Solaris[TM] Live Upgrade Software: Patch Requirements
+1020045.1 - How to Confirm Solaris Live Upgrade Meets Minimum Patch Requirements
+1396382.1 - List of currently unsupported Live Upgrade (LU) configurations.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$66gXE"
+                   NS1:name="Oracle Support Phone URL"
+                   NS1:text="http://www.oracle.com/us/support/contact-068555.html" />
+  <NS1:clipping RDF:about="rdf:#$l6gXE"
+                   NS1:name="VxVM recuperacion de boot">
+    <NS1:text>1.- restaurar de backup
+2.- antes de arrancar preparar el disco para botar de slices (si esta encapsulado con VXVM preguntar a Symantec  por el procedimiento adecuado)
+3.- installar el bootblk en el disco, man installboot
+4.- reconstruir el boot_archive si el sistema operativo es sol10u6 or tiene el parche del kernel 137137-09
+   bootadm update-archive -vf -R /a  --- asumo que el OS esta montado en /a y para botar con slices.
+
+5.- ir al ok. coger el boot-device correcto y botar con este comando, que es en single user y verbose
+
+boot -svV</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$P5gXE"
+                   NS1:name="Refer Customer to SAM"
+                   NS1:text="If you have any further questions or require further assistance, I would suggest to contact your Oracle Support Account Manager with the view of engaging Oracle Advanced Customer Services or Oracle Consulting on a chargeable basis." />
+  <NS1:clipping RDF:about="rdf:#$Z5gXE"
+                   NS1:name="Solaris 11">
+    <NS1:text>Whilst working this service request, I noticed you are not using Solaris 11. Solaris 11 is a huge improvement on previous releases, especially in terms of usability, virtualisation and performance. It is also optimised to integrate with the entire Oracle product stack.
+
+I encourage you to consider Solaris 11.
+
+Here is a list of useful resources for your consideration:
+
+Oracle Solaris 11 Product page - you can download Solaris 11 from this page and find a wealth of information in the Resources tab:
+http://www.oracle.com/us/products/servers-storage/solaris/solaris11/overview/index.html
+
+Oracle Solaris 11 HowTo Articles
+http://www.oracle.com/technetwork/server-storage/solaris11/documentation/how-to-517481.html
+
+Oracle Solaris 11.1 Information Library
+http://docs.oracle.com/cd/E26502_01/
+
+Oracle Solaris 11 Resource Center (Doc ID 1313405.1) - this is regularly updated with useful setup, configuration and troubleshooting documents
+https://support.oracle.com/epmos/faces/DocContentDisplay?id=1313405.1
+
+If you have any questions regarding using or migrating to Solaris 11, please feel free to engage with support engineers and fellow system administrators on the My Oracle Support Communities: http://communities.oracle.com → Quick Find → Solaris</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$d6gXE"
+                   NS1:name="Boot">
+    <NS1:text>1.  Is this x86 or sparc? 
+2.  Is the OS ufs or zfs? 
+3.  Is the system mirrored?    With what product? 
+4.  Is the system clustered?  With what product? 
+5.  What work was being done on this system or was the system found in the down state? Please provide the n° of patches installed. And procedure  followed. Privide Console logs if available. 
+6.  How far into the boot process does the system get?  What are the error messages? 
+7.  What kernel patch or what update is installed on the system?   
+
+Please provide the output of the following commands from OBP.  
+ok&gt;probe-scsi-all
+ok&gt;printenv 
+ok&gt;devalias 
+ok &gt;boot -vV</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$A6gXE"
+                   NS1:name="Politeness">
+    <NS1:text>Thank you very much. 
+Best Regards
+Rodrigo Valdés</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$v6gXE"
+                   NS1:name="Guds"
+                   NS1:text="./guds_3_0 -q -d &quot; system slow&quot; -s &lt;SR number&gt;-H0 -c20 -i1 -n10 -w0 -X3 -r" />
+  <NS1:clipping RDF:about="rdf:#$Y5gXE"
+                   NS1:name="E-mail sent to cu">
+    <NS1:text>E-mail sent to cu
+=============</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$V6gXE"
+                   NS1:name="Sev 2 SR:"
+                   NS1:text="Sev 2 SR: " />
+  <NS1:clipping RDF:about="rdf:#$Q6gXE"
+                   NS1:name="3:00PM CLST(GMT -3)"
+                   NS1:text="3:00PM CLST(GMT -3)" />
+  <NS1:clipping RDF:about="rdf:#$C6gXE"
+                   NS1:name="Issue Clarification">
+    <NS1:text>Hello XXXX
+
+Can you please provide a description of your issue, at this moment all i have is XXXXXXXXXXXXX.
+Please describe the problem that you are experiencing to determine if this SR should remain in Solaris OS instead or
+if this should be routed to XXXXXXXXXXX team.
+
+Best Regards
+Rodrigo Valdés</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$H6gXE"
+                   NS1:name="LU Debug 10">
+    <NS1:text>/etc/default/lu
+
+# The LU_DEBUG option sets the debug level for Live Upgrade. If set to 0,
+# no debug output is produced. If set to a value from 1 to 10, various levels of
+# debug information is output to standard error. The higher the level, the
+# more debug output that is produced.
+#
+# Live Upgrade commands accept the '-x debug_level' option. The '-x' option
+# overrides the value set in this file.
+LU_DEBUG=10 &lt;---- set this value.
+export LU_DEBUG
+
+Output (standard and error) use to go to stdout, but can be redirected to a logfile by setting variables 'LU_SESSION_LOG_FILE' or 'LU_ERROR_LOG_FILE'
+
+"/etc/default/lu"
+
+# LU_SESSION_LOG_FILE is an optional file. If defined, Live Upgrade appends
+# information to the file regarding all operations that Live Upgrade is
+# requested to perform.
+LU_SESSION_LOG_FILE=""
+export LU_SESSION_LOG_FILE &lt;-------- Define a file to use and provide after failure.
+
+# LU_ERROR_LOG_FILE is an optional file. If defined, Live Upgrade appends
+# information to the file regarding errors or problems that occur during all
+# operations that Live Upgrade is requested to perform.
+LU_ERROR_LOG_FILE=""
+export LU_ERROR_LOG_FILE &lt;-------- Define a file to use and provide after failure.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$L6gXE"
+                   NS1:name="TSE Rodrigo Valdés"
+                   NS1:text="TSE Rodrigo Valdés" />
+  <RDF:Seq RDF:about="rdf:#$y5gXE">
+    <RDF:li RDF:resource="rdf:#$z5gXE"/>
+    <RDF:li RDF:resource="rdf:#$A5gXE"/>
+    <RDF:li RDF:resource="rdf:#$B5gXE"/>
+    <RDF:li RDF:resource="rdf:#$C5gXE"/>
+    <RDF:li RDF:resource="rdf:#$D5gXE"/>
+    <RDF:li RDF:resource="rdf:#$E5gXE"/>
+    <RDF:li RDF:resource="rdf:#$F5gXE"/>
+    <RDF:li RDF:resource="rdf:#$G5gXE"/>
+    <RDF:li RDF:resource="rdf:#$H5gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$y5gXE"
+                   NS1:name="Templates Español"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$X5gXE"
+                   NS1:name="x86 Bad PBR boot Troubleshoot.">
+    <NS1:text>1) Which OS is installed on the boot disk? If S10, what update version?
+2) How is the root filesystem configured on the system? (ufs, zfs, mirror, etc.)?
+3) How many disks are in the system?
+4) Can you check the BIOS setting to verify that system is booting to the correct boot disk?
+5) Can you try booting to different disk to be sure?
+6) Are you able to boot to s10 x86 media for a single-user prompt? (If so, collect 'format' output)
+7) Can you mount the root disk when booted to s10 x86 and see the root filesystem?</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$56gXE"
+                   NS1:name="Initial Contact 3">
+    <NS1:text>Hello xxxxxxxx ,
+
+My name is Rodrigo Valdés i am with the Solaris OS support team, and I have taken ownership of
+this service request to assist with your xxxxx Issue.  Please note my business hours are 
+Mon-Thu 9:00AM - 6:30PM CLST (GMT -3) and Friday 9:00AM -5:30PM CLST (GMT -3) .  I am currently reviewing your service request and will get back to 
+you.  At that time, I may request additional information.  If needed, you can contact me by calling 
+your local support number listed here:http://www.oracle.com/us/support/contact-068555.html 
+(in US: 1-800-223-1711) or by updating the SR online via MOS.
+
+Regards,</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$W6gXE"
+                   NS1:name="Translate Task Description"
+                   NS1:text="Se debe traducir desde la página x a la y." />
+  <NS1:clipping RDF:about="rdf:#$p6gXE"
+                   NS1:name="Ilom to OK">
+    <NS1:text>-&gt; set /HOST/bootmode script="setenv auto-boot? false"
+-&gt; set /HOSTsend_break_action=break
+-&gt; start /SP/console
+When asked, I chose"r)eset" which then got me to the "ok&gt;" promkpt.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$j6gXE"
+                   NS1:name="E-mail from Customer">
+    <NS1:text>E-mail from Customer
+=================</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$w5gXE"
+                   NS1:name="Dummy CSI"
+                   NS1:text="15292666" />
+  <NS1:clipping RDF:about="rdf:#$z6gXE"
+                   NS1:name="GUDS - A Script for Gathering Solaris Performanc..."
+                   NS1:text="GUDS - A Script for Gathering Solaris Performance Data [ID 1285485.1]" />
+  <NS1:clipping RDF:about="rdf:#$46gXE"
+                   NS1:name="Solaris 11 Adoption">
+    <NS1:text>Whilst working this service request, I noticed you are not using Solaris 11. Solaris 11 is a huge improvement on previous
+releases, especially in terms of usability, virtualisation and performance. It is also optimised to integrate with the entire Oracle
+product stack.
+I encourage you to consider Solaris 11.
+Here is a list of useful resources for your consideration:
+Oracle Solaris 11 Product page - you can download Solaris 11 from this page and find a wealth of information in the Resources
+tab:
+http://www.oracle.com/us/products/servers-storage/solaris/solaris11/overview/index.html
+Oracle Solaris 11 HowTo Articles
+http://www.oracle.com/technetwork/server-storage/solaris11/documentation/how-to-517481.html
+Oracle Solaris 11.1 Information Library
+http://docs.oracle.com/cd/E26502_01/
+Oracle Solaris 11 Resource Center (Doc ID 1313405.1) - this is regularly updated with useful setup, configuration and
+troubleshooting documents
+https://support.oracle.com/epmos/faces/DocContentDisplay?id=1313405.1
+If you have any questions regarding using or migrating to Solaris 11, please feel free to engage with support engineers and fellow
+system administrators on the My Oracle Support Communities: http://communities.oracle.com → Quick Find → Solaris</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$06gXE"
+                   NS1:name="1. Collect explorer">
+    <NS1:text>1. Collect explorer
+**********************
+
+Run explorer in the following manner :
+
+/opt/SUNWexplo/bin/explorer -w default
+
+The explorer data collector may be obtained from :
+
+http://www.oracle.com/us/support/systems/premier/services-tools-bundle-sun-systems-163717.html
+
+Download from : https://support.us.oracle.com/oip/faces/secure/km/DocumentDisplay.jspx?id=1153444.1
+
+Useful documents on explorer :
+
+Oracle Explorer Data Collector - Product Information Center (Doc ID 1312847.1)
+Oracle Services Tools Bundle (STB) - Explorer, SNEEP, LWACT, RDA (Doc ID 1153444.1)
+Oracle Explorer Commands (Doc ID 1003863.1)
+How to Run Oracle Explorer and Forward the Data to an Oracle Service Engineer (Doc ID 1018748.1)
+How to Send Data to Oracle (Doc ID 1020199.1)</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$M6gXE"
+                   NS1:name="Nos gustaría saber cual es el estado actual del caso">
+    <NS1:text>Estimado &lt;Nombre del Cliente&gt;
+
+Nos gustaría saber cual es el estado actual del caso para ver la manera de 
+poder ayudarlo, o saber si estamos en condiciones de cerrar el SR.
+
+Cordial Saludo 
+Rodrigo Valdés</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$E6gXE"
+                   NS1:name="Console SVMUFS "
+                   NS1:text="/usr/dist/exe/console lbl-1436" />
+  <NS1:clipping RDF:about="rdf:#$Q5gXE"
+                   NS1:name="Explorer instructions">
+    <NS1:text>If your not familiarized with explorer please follow the instructions:
+
+1. To download the explorer, loggin into MOS and go to this document ID 1153444.1
+
+2. This link shows the instructions to install the explorer in your machine.
+http://download.oracle.com/docs/cd/E19957-01/819-6613/gcptt/index.html
+
+3. How to upload the explorer to Oracle servers.
+If you install the explorer by default you can find it in:
+/opt/SUNWexplo/output
+
+ Please rename the explorer appending  at the beginning of the file the SR number.
+ Example: xxxxxxx.explorer.year.month.day.tar.gz
+Then go to http://supportfiles.sun.com/upload
+Select the explorer file
+Select the /cores folder from the list
+Enter your SR number
+Then click in upload.
+When the process is completed you should see this message on the screen.
+"Thanks for your upload. Your file has been stored as  on the Supportfiles service."
+
+All this steps are summarized in Doc ID 1018748.1 on MOS.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$r6gXE"
+                   NS1:name="Código Postal hogar"
+                   NS1:text="8340347" />
+  <NS1:clipping RDF:about="rdf:#$U6gXE"
+                   NS1:name="Sev 1 SR:"
+                   NS1:text="Sev 1 SR:" />
+  <RDF:Seq RDF:about="rdf:#$s6gXE">
+    <RDF:li RDF:resource="rdf:#$t6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$s6gXE"
+                   NS1:name="PLA'S"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$g6gXE"
+                   NS1:name="Initial Action Plan Boot Issue">
+    <NS1:text>1.  Is the OS ufs or zfs? 
+2.  Is the system mirrored?    With what product? 
+3.  Is the system clustered?  With what product? 
+4.  What work was being done on this system or was the system found in the down state? Please provide the n° of patches installed. And procedure  followed. Privide Console logs if available. 
+5.  How far into the boot process does the system get?  What are the error messages? 
+6.  What kernel patch or what update is installed on the system?   
+
+Please provide the output of the following commands from OBP.  
+ok&gt;probe-scsi-all
+ok&gt;printenv 
+ok&gt;devalias 
+ok &gt;boot -vV</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$f6gXE"
+                   NS1:name="Live Upgrade Info Gathering">
+    <NS1:text>1) Get explorer from PBE system,
+
+2) Get exact syntax of live upgrade command 
+
+3) Get output from lustatus i.e. : 
+Boot Environment Is Active Active Can Copy Name Complete Now On Reboot Delete Status 
+-------------------------- -------- ------ --------- ------ ---------- 
+snv_118 yes no no yes - 
+snv_119 yes yes yes no - 
+
+4) Get /etc/lutab file 
+
+5) /etc/lu directory content collected as follows: 
+
+# cd /etc 
+# tar cvf /tmp/lu.tar ./lu</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="rdf:#$t5gXE">
+    <RDF:li RDF:resource="rdf:#$u5gXE"/>
+    <RDF:li RDF:resource="rdf:#$v5gXE"/>
+    <RDF:li RDF:resource="rdf:#$w5gXE"/>
+    <RDF:li RDF:resource="rdf:#$x5gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$t5gXE"
+                   NS1:name="Oracle Support"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$H5gXE"
+                   NS1:name="Pasos para obtener un EXPLORER del sistema.">
+    <NS1:text>Pasos para obtener un EXPLORER del sistema.
+
+1. Para descargar explorer logearse a My Oracle Support y referenciar al Doc ID 1153444.1
+
+2. Este link indica las instrucciones para instalar explorer manualmente.
+http://download.oracle.com/docs/cd/E19957-01/819-6613/gcptt/index.html
+
+3. Como subir explorer a servidor Oracle.
+
+Por favor necesitamos que nos envies un explorer (favor renombrar el archivo anteponiendo el numero de caso).
+Ejemplo: xxxxxxxxx.explorer.año.mes.dia.tar.gz
+Luego ingrese a http://supportfiles.sun.com/upload
+Seleccione el archivo explorer
+Seleccione la carpeta /cores de la lista desplegable
+Ingrese su numero de caso (SR)
+Haga click en "Upload"
+Una vez que el proceso este completado usted vera el siguiente mensaje en pantalla:
+"Thanks for your upload. Your file has been stored as  on the Supportfiles service."
+
+Todos estos pasos se resumen en el Doc ID 1018748.1 dentro de My Oracle Support.
+
+Gracias.</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="http://clippings.mozdev.org/rdf/user-clippings-v2">
+    <RDF:li RDF:resource="rdf:#$t5gXE"/>
+    <RDF:li RDF:resource="rdf:#$y5gXE"/>
+    <RDF:li RDF:resource="rdf:#$I5gXE"/>
+    <RDF:li RDF:resource="rdf:#$56gXE"/>
+    <RDF:li RDF:resource="rdf:#$66gXE"/>
+    <RDF:li RDF:resource="rdf:#$76gXE"/>
+    <RDF:li RDF:resource="rdf:#$86gXE"/>
+    <RDF:li RDF:resource="rdf:#$b6gXE"/>
+    <RDF:li RDF:resource="rdf:#$j6gXE"/>
+    <RDF:li RDF:resource="rdf:#$k6gXE"/>
+    <RDF:li RDF:resource="rdf:#$l6gXE"/>
+    <RDF:li RDF:resource="rdf:#$m6gXE"/>
+    <RDF:li RDF:resource="rdf:#$n6gXE"/>
+    <RDF:li RDF:resource="rdf:#$o6gXE"/>
+    <RDF:li RDF:resource="rdf:#$p6gXE"/>
+    <RDF:li RDF:resource="rdf:#$q6gXE"/>
+    <RDF:li RDF:resource="rdf:#$r6gXE"/>
+    <RDF:li RDF:resource="rdf:#$s6gXE"/>
+    <RDF:li RDF:resource="rdf:#$u6gXE"/>
+    <RDF:li RDF:resource="rdf:#$v6gXE"/>
+    <RDF:li RDF:resource="rdf:#$w6gXE"/>
+    <RDF:li RDF:resource="rdf:#$x6gXE"/>
+    <RDF:li RDF:resource="rdf:#$y6gXE"/>
+    <RDF:li RDF:resource="rdf:#$A6gXE"/>
+    <RDF:li RDF:resource="rdf:#$B6gXE"/>
+    <RDF:li RDF:resource="rdf:#$C6gXE"/>
+    <RDF:li RDF:resource="rdf:#$D6gXE"/>
+    <RDF:li RDF:resource="rdf:#$F6gXE"/>
+    <RDF:li RDF:resource="rdf:#$G6gXE"/>
+    <RDF:li RDF:resource="rdf:#$H6gXE"/>
+    <RDF:li RDF:resource="rdf:#$I6gXE"/>
+    <RDF:li RDF:resource="rdf:#$K6gXE"/>
+    <RDF:li RDF:resource="rdf:#$L6gXE"/>
+    <RDF:li RDF:resource="rdf:#$M6gXE"/>
+    <RDF:li RDF:resource="rdf:#$N6gXE"/>
+    <RDF:li RDF:resource="rdf:#$O6gXE"/>
+    <RDF:li RDF:resource="rdf:#$P6gXE"/>
+    <RDF:li RDF:resource="rdf:#$Q6gXE"/>
+    <RDF:li RDF:resource="rdf:#$R6gXE"/>
+    <RDF:li RDF:resource="rdf:#$S6gXE"/>
+    <RDF:li RDF:resource="rdf:#$T6gXE"/>
+    <RDF:li RDF:resource="rdf:#$U6gXE"/>
+    <RDF:li RDF:resource="rdf:#$V6gXE"/>
+    <RDF:li RDF:resource="rdf:#$W6gXE"/>
+  </RDF:Seq>
+  <NS1:clipping RDF:about="rdf:#$T5gXE"
+                   NS1:name="Out of office">
+    <NS1:text>Dear Customer 
+
+I need to inform you that i will not be available until Wed 27th, if you need any help while i'm not available
+please call Oracle Support and request this SR to be transferred to the next engineer available, otherwise i will 
+continue to work when i'm back at the office.
+
+Regards</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$k6gXE"
+                   NS1:name="E-mail sent to customer">
+    <NS1:text>E-mail sent to customer
+===================</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$N5gXE"
+                   NS1:name="Refer Customer to ACS"
+                   NS1:text="If you would like assistance in [ details of what the customer is requesting ] on a chargeable basis, please contact Oracle Advanced Customer Services, Oracle Consulting or your Oracle Support Account Manager. You can find more information on Oracle Advanced Customer Services at http://www.oracle.com/us/support/software/advanced-customer-services/index.html " />
+  <NS1:clipping RDF:about="rdf:#$i6gXE"
+                   NS1:name="Problem Boot Issue Sparc">
+    <NS1:text>1. ¿ Que tipo de filesystem es el rootfilesystem? (UFS, ZFS, otro)
+2. ¿ Está el Sistema Operativo encapsulado dentro de alguna solución de mirrors? ¿Cual Producto? (Solaris Volume Manager, Veritas Volume Manager, ZFS, Otro).
+3. ¿ Este sistema forma parte de un cluster? ¿Que producto cluster?(Sun Cluster, Veritas Cluster, Otro)
+4. ¿ Qué trabajo fue realizado en el sistema antes del problema?. ¿Existen antecedentes de alguna instalación de parches? ¿Reemplazo de HW?
+5. ¿Cual es la versión del sistem operativo? (solaris Update X, Version de kernel xxxxx-xx)
+
+Por favor enviar las siguientes salidas desde OBP:
+
+ok&gt;probe-scsi-all
+ok&gt;printenv
+ok&gt;devalias
+ok &gt;boot -vV</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$A5gXE"
+                   NS1:name="Proximo ingeniero disponible">
+    <NS1:text>Estimado xxxxxx
+
+Mi turno está a punto de terminar, en caso de que requiera asistencia mientras no estoy de turno por favor llamar a Oracle Support y solicitar transferir este caso al proximo ingeniero disponible.
+
+Muchas Gracias.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$K5gXE"
+                   NS1:name="Refer Customer to Oracle Documentation"
+                   NS1:text="You can find further information on [ what customer wants ] in [ document title | doc ID ] at [ link to Oracle documentation | on My Oracle Support ]. I can not provide you with step-by-step assistance, but I can answer any questions you may have relating to the documentation referenced if something is not clear." />
+  <NS1:clipping RDF:about="rdf:#$C5gXE"
+                   NS1:name="Subir Core Dump">
+    <NS1:text>Estas son las instrucciones para subir el coredump a nustros servidores:
+
+Favor renombrar el archivo anteponiendo el numero de caso.
+Ejemplo: xxxxxxxxx.coredump.tar.gz
+Luego ingrese a http://supportfiles.sun.com/upload
+Seleccione el coredump
+Seleccione la carpeta /cores de la lista desplegable
+Ingrese su numero de caso (XXXXXXXXX)
+Haga click en "Upload"
+Una vez que el proceso este completado usted vera el siguiente mensaje en pantalla:
+"Thanks for your upload. Your file has been stored as  on the Supportfiles service."</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$V5gXE"
+                   NS1:name="Find out bug fixes">
+    <NS1:text>===================================================================
+To find out when an official patch is released for a bug fix
+customers can monitor the bug in MOS using the below procedures:
+===================================================================
+
+1) You can periodically search the My Oracle Support (MOS) "Patches &amp; Updates" for a patch for the Sun CR # using the (Simple) search in the "Patch Search" section.
+
+or
+
+2) Set up email notifications:
+
+Please see the below document for steps to setup email notifications:
+
+    Use My Oracle Support Hot Topics Email and Never Miss an Important Update (Doc ID 793436.1)
+
+To setup email notifications on a bug (CR), first search for the Sun Bug # in My Oracle Support, and then add to your favorites (click the star next to the search hit, before opening the bug in a new browser tab or window).
+
+Then configure your "Hot Topics" email preferences using the above document and configure it to send an email when the bug is updated.
+
+Note: The bug will be updated periodically by engineering as they progress towards an official patch.  When the patch is released, the bug will be updated with the patch ID and the bug status will change to 10-Fix Delivered.</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="rdf:#$e6gXE">
+    <RDF:li RDF:resource="rdf:#$f6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$e6gXE"
+                   NS1:name="Live Upgrade"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$D5gXE"
+                   NS1:name="Contacto Inicial">
+    <NS1:text>Estimado xxxxxxx
+
+Mi nombre es Rodrigo Valdés pertenezco al equipo de soporte de Sistema Operativo Solaris y he sido asignado 
+a su caso. Mi horario de trabajo es de Lunes a Jueves desde 9:00AM a 18:30PM CLST (GMT -3) y Viernes desde 9:00AM
+a 17:00PM CLST (GMT -3). Si requiere ayuda fuera de mi horario de trabajo puede llamar a soporte Oracle y solicitar la
+transferencia de este caso al próximo ingeniero disponible. 
+
+En estos momento me encuentro revisando las notas del SR y me pondré en contacto por esta via para actualizar
+o requerir más información. 
+
+Muchas Gracias.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$J6gXE"
+                   NS1:name="Space Description"
+                   NS1:text="Relativo a diseminar, diseñar y construir conocimientos y artefactos de" />
+  <NS1:clipping RDF:about="rdf:#$N6gXE"
+                   NS1:name="Proporcionar Feedback."
+                   NS1:text="Proporcionar Feedback." />
+  <NS1:clipping RDF:about="rdf:#$P6gXE"
+                   NS1:name="Performance Docs">
+    <NS1:text>adjunto documentos que le serviran en caso de que se presente nuevamente un problema de performance.
+
+GUDS - A Script for Gathering Solaris Performance Data (Doc ID 1285485.1)
+What Data Is Needed In Order to Troubleshoot My Solaris Performance Issue? (Doc ID 1357700.1)
+
+Cabe destacar que en caso de que el sistema sólo esta más lento la opción sería un GUDS, si la maquina se vuelve inaccesible un panic forzado quizás
+sea la única manera de tratar de entender el estado del equipo que desencadenó el problema.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$26gXE"
+                   NS1:name="1 issue per SR">
+    <NS1:text>In order for Global Customer Support (GCS) to effectively work and resolve
+technical Service Requests, it is essential we limit each request to a single
+issue. This allows GCS to establish a clear problem/solution association and
+plan of action. Additionally, this policy ensures we have data that can be used
+for later analysis for workforce planning and root cause analysis. If the
+Customer has multiple issues, a separate SR would be created for each issue.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$L5gXE"
+                   NS1:name="Refer Customer to ACS"
+                   NS1:text="If you would like assistance in [ details of what the customer is requesting ] on a chargeable basis, please contact Oracle Advanced Customer Services, Oracle Consulting or your Oracle Support Account Manager. You can find more information on Oracle Advanced Customer Services at http://www.oracle.com/us/support/software/advanced-customer-services/index.html " />
+  <NS1:clipping RDF:about="rdf:#$E5gXE"
+                   NS1:name="Subir Core Dump">
+    <NS1:text>Estas son las instrucciones para subir el coredump a nustros servidores:
+
+Favor renombrar el archivo anteponiendo el numero de caso.
+Ejemplo: xxxxxxxxx.coredump.tar.gz
+Luego ingrese a http://supportfiles.sun.com/upload
+Seleccione el coredump
+Seleccione la carpeta /cores de la lista desplegable
+Ingrese su numero de caso (XXXXXXXXX)
+Haga click en "Upload"
+Una vez que el proceso este completado usted vera el siguiente mensaje en pantalla:
+"Thanks for your upload. Your file has been stored as  on the Supportfiles service."</NS1:text>
+  </NS1:clipping>
+  <RDF:Seq RDF:about="rdf:#$y6gXE">
+    <RDF:li RDF:resource="rdf:#$z6gXE"/>
+  </RDF:Seq>
+  <NS1:folder RDF:about="rdf:#$y6gXE"
+                   NS1:name="Docs"
+                   NS1:hassubfolders="false" />
+  <NS1:clipping RDF:about="rdf:#$u6gXE"
+                   NS1:name="Patente Mamá"
+                   NS1:text="BDBB40" />
+  <NS1:clipping RDF:about="rdf:#$S5gXE"
+                   NS1:name="E-mail disclaimer">
+    <NS1:text>In order to continue with this SR through e-mail you need to understand the following:
+Non-secure data transmissions are not Oracle’s practice. Oracle  is not responsible for 
+inadvertent data breaches associated with email use in SR resolution.
+Exposure to delays and rework due to SR FTS processes, escalations, and SR transfers.  
+
+Information not in the SR may need  to be resubmitted and actions may need to be repeated. 
+Oracle is not responsible for any SR resolution delays this may cause. 
+      
+Keep in mind that you will need access to MOS in order to check  documents, download patches, etc.
+    
+Please confirm that you are aware of the risks to work through e-mail, then will continue with this case.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$16gXE"
+                   NS1:name="Out of office">
+    <NS1:text>Hello Paul 
+
+Please provide comments regarding your issue, also i need to let you know that i will not be able to work on this until 
+next Monday. If you need continue to work on this while i am off shift please call Oracle Support  http://www.oracle.com/us/support/contact-068555.html
+and request to transfer this SR to the next available engineer. Otherwise i will follow up on Monday. Thank you very much.
+
+Best Regards
+Rodrigo</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$J5gXE"
+                   NS1:name="Out of support scope">
+    <NS1:text>Dear [ customer's name ]
+
+Unfortunately your request for [ details of what the customer is requesting ] is beyond the scope of your support contract.
+
+Global Customer Support is available to assist in the troubleshooting and diagnosis of problems that Customers experience during the implementation and use of Oracle products.
+
+Support is not staffed to deliver Education or Consulting Services nor is this type of service priced into Support fees. When implementing Oracle software, Customers should always plan for the cost of educating the project team and consider Oracle Advanced Customer Services or Oracle Consulting if assistance is required in performing [ the action the customer wants us to do for him ].
+
+Please refer to https://support.oracle.com/CSP/main/article?cmd=show&amp;type=NOT&amp;id=166650.1 on My Oracle Support for more information, in particular, the 'Limitations of Support' Section.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$U5gXE"
+                   NS1:name="Initial Contact">
+    <NS1:text>Hello Thomas,
+
+My name is Rodrigo Valdés i am with the Solaris OS support team, and I have taken ownership of this service request to assist with ludelete issue.  Please
+note my business hours are Mon-Fri 9AM-6:30PM GMT -3 .  I am currently reviewing your service request and will get back to you.  At that time, I may request
+additional information.  If needed, you can contact me by calling your local support number listed here:
+http://www.oracle.com/us/support/contact-068555.html (in US: 1-800-223-1711) or by updating the SR online via MOS.
+
+Regards,</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$G6gXE"
+                   NS1:name="Kernel patch install tips">
+    <NS1:text>Some of the things that you need to consider before upgrade kernel.
+
+1) Read README of patch. You will find specific intruction in how to install the Kernel patch, and prerequisites.
+
+2) Understand the difference between install just a Kernel patch instead of doing an upgrade of release level:
+You can find details about this on the following MOS document:
+What is the Difference Between Applying Solaris Patches, and Applying a Solaris Upgrade (Doc ID 1481943.1)
+
+3) Based on 2) Determine patchng strategy that you will use to perform upgrade (Just Kernel Patch, Upgrade). 
+http://docs.oracle.com/cd/E26505_01/html/E29492/swmgrpatchtasks-1.html#scrolltoc
+
+4) Being familiarized with basics on patching proccess:
+The Beginner's Guide to Oracle Solaris Patching (Doc ID 1005835.1)
+http://docs.oracle.com/cd/E26505_01/html/E29492/swmgrpatchtasks-1.html#scrolltoc
+
+5) Being familiarized with different approaches to patching (Live Upgrade, patchadd, Upgrade through Solaris media upgrade(from media like cd-rom or net)).
+
+6) If at this point, you feel that still requires guidance, you could either ask help from a colleague in your organization with experience in patching,
+ask for help on comunity https://forums.oracle.com/community/developer/english/server_%26_storage_systems/solaris/solaris_10, or request Oracle Advanced 
+Customer Services (ACS) in order to ask for training or execute the patching procedure for you.
+
+7) If you decide to go ahead with patching and if something goes wrong then we can help you in troubleshoot patching procedure. Make sure 
+to collect an explorer of every system , and backup BEFORE patching. Also please collect console log of patching activities. This will be 
+usefull tools to trouboeshoot if something goes wrong.
+
+If your not familiarized with explorer please follow the instructions:
+
+1. To download the explorer, loggin into MOS and go to this document ID 1153444.1
+
+2. This link shows the instructions to install the explorer in your machine.
+http://download.oracle.com/docs/cd/E19957-01/819-6613/gcptt/index.html
+
+3. How to upload the explorer to Oracle servers.
+If you install the explorer by default you can find it in:
+/opt/SUNWexplo/output
+
+ Please rename the explorer appending  at the beginning of the file the SR number.
+ Example: xxxxxxx.explorer.year.month.day.tar.gz
+Then go to http://supportfiles.sun.com/upload
+Select the explorer file
+Select the /cores folder from the list
+Enter your SR number
+Then click in upload.
+When the process is completed you should see this message on the screen.
+"Thanks for your upload. Your file has been stored as  on the Supportfiles service."
+All this steps are summarized in Doc ID 1018748.1 on MOS.
+
+
+Please let me know if you have any problem understanding some of document provided, and please have in mind that we as support team are only 
+allowed to help you in "break and fix" stuff, this SR does not qualify as such however i decided to provide some hints anyway.</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$O5gXE"
+                   NS1:name="Refer Customer to My Oracle Support Communities"
+                   NS1:text="If you would like assistance in [ details of what the customer is requesting ] on an informal basis from other Oracle customers and support engineers, you may want to consider the My Oracle Support Communities at https://communities.oracle.com ." />
+  <NS1:clipping RDF:about="rdf:#$K6gXE"
+                   NS1:name="Revisar notas del Service Request."
+                   NS1:text="Revisar notas del Service Request." />
+  <NS1:clipping RDF:about="rdf:#$x6gXE"
+                   NS1:name="Mirror Unencapsulation">
+    <NS1:text>STEP-BY-STEP PROCEDURE:
+
+Please be sure to substitute the system disk name (i.e., c0t0d0) in the example commands below. This example uses "c0t0d0".
+
+1. Boot from CD-ROM on single user: ok&gt; boot cdrom -s
+
+2. Mount the root partition onto /a. It may be required to run 'fsck' on this partition before it can be mounted.
+
+# mount /dev/dsk/c0t0d0s0 /a
+
+3. Edit the /etc/system file, and remove the "rootdev" line shown below:
+
+# vi /a/etc/system
+
+rootdev:/pseudo/md@0:0,0,blk
+
+Do not comment-out this line - REMOVE IT!
+
+4. In the /etc/vfstab file, replace the lines for the system file system metadevices with their underlying partitions.
+
+For example, change lines from:
+
+       /dev/md/dsk/d0     /dev/md/rdsk/d0    / ufs 1 no -
+
+   to:
+
+       /dev/dsk/c0t0d0s0  /dev/rdsk/c0t0d0s0 / ufs 1 no -
+
+ONLY change the lines for root (/) and the file systems which were affected by the actions taken in step 1 above. All other metadevices, may stay 'as is', in this file.
+
+5. Unmount and check the root file system. Then stop the system.
+
+# cd /
+
+# umount /a
+
+# fsck /dev/rdsk/c0t0d0s0</NS1:text>
+  </NS1:clipping>
+  <NS1:clipping RDF:about="rdf:#$o6gXE"
+                   NS1:name="Solaris 11">
+    <NS1:text>Whilst working this service request, I noticed you are not using Solaris 11. Solaris 11 is a huge improvement on previous
+releases, especially in terms of usability, visualization and performance. It is also optimized to integrate with the entire Oracle
+product stack.
+I encourage you to consider Solaris 11.
+Here is a list of useful resources for your consideration:
+Oracle Solaris 11 Product page - you can download Solaris 11 from this page and find a wealth of information in the Resources
+tab:
+http://www.oracle.com/us/products/servers-storage/solaris/solaris11/overview/index.html
+Oracle Solaris 11 HowTo Articles
+http://www.oracle.com/technetwork/server-storage/solaris11/documentation/how-to-517481.html
+Oracle Solaris 11.1 Information Library
+http://docs.oracle.com/cd/E26502_01/
+Oracle Solaris 11 Resource Center (Doc ID 1313405.1) - this is regularly updated with useful setup, configuration and
+troubleshooting documents
+https://support.oracle.com/epmos/faces/DocContentDisplay?id=1313405.1
+If you have any questions regarding using or migrating to Solaris 11, please feel free to engage with support engineers and fellow
+system administrators on the My Oracle Support Communities: http://communities.oracle.com → Quick Find → Solaris</NS1:text>
+  </NS1:clipping>
+</RDF:RDF>
