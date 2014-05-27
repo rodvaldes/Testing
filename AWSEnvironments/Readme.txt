@@ -1,0 +1,1 @@
+En esta carpeta se almacenarán los stack cloudformation para disdtintas arquitecturas AWS.
